@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Wedding01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Wedding01.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\backblue.gif",
+      "PackagePath": "staticwebassets\\backblue.gif"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fade.gif",
+      "PackagePath": "staticwebassets\\fade.gif"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\flaticon\\font\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticond41d.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\icomoon\\icomoonccfb.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoonccfb.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\icomoon\\icomoonccfb.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoonccfb.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\icomoon\\icomoonccfb.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoonccfb.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\icomoon\\icomoonccfb.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoonccfb.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\ionicons\\fonts\\ionicons580c.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons580c.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\ionicons\\fonts\\ionicons580c.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons580c.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\ionicons\\fonts\\ionicons580c.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons580c.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\ionicons\\fonts\\ionicons580c.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons580c.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\ionicons\\fonts\\ionicons580c.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons580c.woff2"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\fonts\\open-iconic\\open-iconicd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconicd41d.eot"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL8742.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL8742.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9058.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9058.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9161.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9161.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9198.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9198.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9301.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9301.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9505.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9505.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9586.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9586.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9589.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9589.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\Gallery\\_LYL9720.JPG",
+      "PackagePath": "staticwebassets\\images\\Gallery\\_LYL9720.JPG"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bottom-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bottom-bg.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bride.jpg",
+      "PackagePath": "staticwebassets\\images\\bride.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bridesmaid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bridesmaid-1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bridesmaid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bridesmaid-2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bridesmaid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bridesmaid-3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\bridesmaid-4.jpg",
+      "PackagePath": "staticwebassets\\images\\bridesmaid-4.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\couple-1.jpg",
+      "PackagePath": "staticwebassets\\images\\couple-1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\couple-2.jpg",
+      "PackagePath": "staticwebassets\\images\\couple-2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\couple-3.jpg",
+      "PackagePath": "staticwebassets\\images\\couple-3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\couple-4.jpg",
+      "PackagePath": "staticwebassets\\images\\couple-4.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-5.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-6.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-7.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-8.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\groom-men-1.jpg",
+      "PackagePath": "staticwebassets\\images\\groom-men-1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\groom-men-2.jpg",
+      "PackagePath": "staticwebassets\\images\\groom-men-2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\groom-men-3.jpg",
+      "PackagePath": "staticwebassets\\images\\groom-men-3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\groom-men-4.jpg",
+      "PackagePath": "staticwebassets\\images\\groom-men-4.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\groom.jpg",
+      "PackagePath": "staticwebassets\\images\\groom.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\logo01.png",
+      "PackagePath": "staticwebassets\\images\\logo01.png"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\place-1.jpg",
+      "PackagePath": "staticwebassets\\images\\place-1.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\place-2.jpg",
+      "PackagePath": "staticwebassets\\images\\place-2.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\place-3.jpg",
+      "PackagePath": "staticwebassets\\images\\place-3.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\images\\top-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\top-bg.jpg"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.mb.YTPlayer.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mb.YTPlayer.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Pj\\Wedding\\Wedding01\\Wedding01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Wedding01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Wedding01.props",
+      "PackagePath": "build\\Wedding01.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Wedding01.props",
+      "PackagePath": "buildMultiTargeting\\Wedding01.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Wedding01.props",
+      "PackagePath": "buildTransitive\\Wedding01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\Wedding01.exe
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\Wedding01.dll
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\Wedding01.deps.json
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\Wedding01.runtimeconfig.json
+E:\Pj\Wedding\Wedding01\Wedding01\obj\Release\net8.0\PubTmp\Out\Wedding01.pdb
